@@ -1,6 +1,6 @@
-## analytics.usa.gov
+## analytics.codeforokc.gov
 
-A project to publish website analytics for the US federal government.
+A project to publish web traffic for all of the Code for OKC projects
 
 For a detailed description of how the site works, read [18F's blog post on analytics.usa.gov](https://18f.gsa.gov/2015/03/19/how-we-built-analytics-usa-gov/).
 
